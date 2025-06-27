@@ -1,0 +1,25 @@
+{
+  "name": "mongoconnect",
+  "version": "1.0.0",
+  "description": "This is a Connection Form Project",
+  "main": "server.js",
+  "devDependencies": {},
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MongoDB"
+  ],
+  "author": "Yash Bandal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.6.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1",
+    "nodemon": "^3.1.10"
+}
+}

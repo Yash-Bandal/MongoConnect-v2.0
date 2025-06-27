@@ -1,0 +1,103 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    /* Use Roboto font */
+    /* background-color:#E8E7D5; */
+    background-color: #e3fcf7;
+
+}
+
+.container {
+    /* max-width: 900px; */
+    width: 75vw;
+    margin: auto;
+}
+
+h1 {
+    
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #023430;
+    /* MongoDB green */
+    color: white;
+    padding: 10px;
+}
+
+img {
+    vertical-align: middle;
+    /* Align the image vertically with text */
+}
+
+.card {
+    border-color: #000000;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+    /* Shadow effect */
+}
+
+.card-header {
+    background-color: #00e060;
+    /* MongoDB green */
+    color: white;
+    border-color: black;
+    /* MongoDB green */
+}
+
+.form-container {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #efc0eb;
+    /* Dark green */
+    border-color: #1c7c54;
+    /* Dark green */
+}
+
+.btn-primary:hover {
+    background-color: #13503b;
+    /* Darker green on hover */
+    border-color: #13503b;
+    /* Darker green on hover */
+}
+
+.btn-danger {
+    background-color: #b05aee;
+    /* Dark green */
+    border-color: #1c7c54;
+    /* Dark green */
+}
+
+.btn-danger:hover {
+    background-color: #b05aee;
+    /* Darker green on hover */
+    border-color: #13503b;
+    /* Darker green on hover */
+}
+
+
+
+/* Retrieve form */
+
+.list-group-item {
+    font-size: 1rem;
+    padding: 12px 20px;
+    background: linear-gradient(145deg, #f5f5f5, #ffffff);
+    border: none;
+    margin-bottom: 5px;
+    border-radius: 6px;
+}
+
+.list-group-item strong {
+    color: #007b5e;
+}
