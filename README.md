@@ -53,8 +53,10 @@ project-root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mongodb-crud-app.git](https://github.com/Yash-Bandal/MongoConnect-v2.0.git
-cd MongoConnect
+git clone https://github.com/Yash-Bandal/MongoConnect-v2.0.git
+```
+```
+ cd MongoConnect-v2.0   
 ```
 
 ### 2. Install Dependencies
