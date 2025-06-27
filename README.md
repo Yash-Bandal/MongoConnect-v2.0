@@ -5,7 +5,6 @@ A full-stack web application that allows users to Create, Read, Update, and Dele
 * MongoDB for the database
 * Express.js for the server
 * EJS for templating
-* Bootstrap 5 for frontend UI
 * SweetAlert2 for user-friendly alerts
 
 <br>
