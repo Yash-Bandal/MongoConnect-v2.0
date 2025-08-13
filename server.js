@@ -63,6 +63,8 @@ app.use(express.urlencoded({ extended: true }));
 
 //<form method="post" action="/insert">
 app.post('/insert', async (req, res) => {
+  // console.log('BODY RECEIVED:', req.body);  //debug..check if data received
+
   try {
     const newNoteDoc = new MongoConnectDB({
       Subject: req.body.Subject,
@@ -197,3 +199,4 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
