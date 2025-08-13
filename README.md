@@ -10,7 +10,9 @@ A full-stack web application that allows users to Create, Read, Update, and Dele
 <br>
 
 ### Watch Video Preview
-
+<a href="https://youtu.be/M9hFs5zxzL">
+  <img src="https://img.youtube.com/vi/M9hFs5zxzL/maxresdefault.jpg" height="500">
+</a>
 
 <!--[![Watch the video](https://img.youtube.com/vi/M9hFs5zxzLI/maxresdefault.jpg)](https://youtu.be/M9hFs5zxzLI -->
 
