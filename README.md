@@ -9,7 +9,7 @@ A full-stack web application that allows users to Create, Read, Update, and Dele
 
 <br>
 
-### Watch Video Preview :
+### Preview :
 
 <!-- <a href="https://youtu.be/VzXp1N2CIIo">
   <img src="https://img.youtube.com/vi/VzXp1N2CIIo/maxresdefault.jpg" alt="Video Thumbnail: MongoConnect Crud App" width="100%">
@@ -24,13 +24,11 @@ A full-stack web application that allows users to Create, Read, Update, and Dele
   <tr>
     <td align="center" width="600">
       <img src="https://github.com/user-attachments/assets/b6f4e5ca-5b3c-4e31-9f10-42dccc03966a" />
-" width="300"/>
       <br>
       <b>Insertion</b>
     </td>
     <td align="center" width="600">
       <img src="https://github.com/user-attachments/assets/62f4b118-a62b-400a-be67-828ec3b41ce4" />
-" width="300"/>
       <br>
       <b>Deletion</b>
     </td>
